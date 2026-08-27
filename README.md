@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/31522482/README.md).
 # SQL Sales Data Analysis — Customer, Revenue & Order Performance
 
 ## Project Overview
